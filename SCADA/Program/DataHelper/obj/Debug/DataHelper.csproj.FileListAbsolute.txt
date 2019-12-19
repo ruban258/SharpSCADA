@@ -1,0 +1,11 @@
+C:\Users\jeyakumarg\Source\Repos\ruban258\SharpSCADA\SCADA\Program\DataHelper\bin\Debug\DataHelper.dll.config
+C:\Users\jeyakumarg\Source\Repos\ruban258\SharpSCADA\SCADA\Program\DataHelper\bin\Debug\DataHelper.dll
+C:\Users\jeyakumarg\Source\Repos\ruban258\SharpSCADA\SCADA\Program\DataHelper\bin\Debug\DataHelper.pdb
+C:\Users\jeyakumarg\Source\Repos\ruban258\SharpSCADA\SCADA\Program\DataHelper\bin\Debug\DataService.dll
+C:\Users\jeyakumarg\Source\Repos\ruban258\SharpSCADA\SCADA\Program\DataHelper\bin\Debug\MySql.Data.dll
+C:\Users\jeyakumarg\Source\Repos\ruban258\SharpSCADA\SCADA\Program\DataHelper\bin\Debug\DataService.pdb
+C:\Users\jeyakumarg\Source\Repos\ruban258\SharpSCADA\SCADA\Program\DataHelper\obj\Debug\DataHelper.csprojAssemblyReference.cache
+C:\Users\jeyakumarg\Source\Repos\ruban258\SharpSCADA\SCADA\Program\DataHelper\obj\Debug\DataHelper.csproj.CoreCompileInputs.cache
+C:\Users\jeyakumarg\Source\Repos\ruban258\SharpSCADA\SCADA\Program\DataHelper\obj\Debug\DataHelper.csproj.CopyComplete
+C:\Users\jeyakumarg\Source\Repos\ruban258\SharpSCADA\SCADA\Program\DataHelper\obj\Debug\DataHelper.dll
+C:\Users\jeyakumarg\Source\Repos\ruban258\SharpSCADA\SCADA\Program\DataHelper\obj\Debug\DataHelper.pdb

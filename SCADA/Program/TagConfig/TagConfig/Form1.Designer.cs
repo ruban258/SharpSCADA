@@ -66,7 +66,7 @@
             this.tspcopy = new System.Windows.Forms.ToolStripMenuItem();
             this.tspcut = new System.Windows.Forms.ToolStripMenuItem();
             this.tsppaste = new System.Windows.Forms.ToolStripMenuItem();
-            this.批量删除ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.BatchDeleteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.事件归档ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.粘贴CSVToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.bindingSource1 = new System.Windows.Forms.BindingSource(this.components);
@@ -394,7 +394,7 @@
             this.tspcopy,
             this.tspcut,
             this.tsppaste,
-            this.批量删除ToolStripMenuItem,
+            this.BatchDeleteToolStripMenuItem,
             this.事件归档ToolStripMenuItem,
             this.粘贴CSVToolStripMenuItem});
             this.contextMenuStrip2.Name = "contextMenuStrip2";
@@ -444,12 +444,12 @@
             this.tsppaste.Size = new System.Drawing.Size(194, 22);
             this.tsppaste.Text = "粘帖";
             // 
-            // 批量删除ToolStripMenuItem
+            // BatchDeleteToolStripMenuItem
             // 
-            this.批量删除ToolStripMenuItem.Name = "批量删除ToolStripMenuItem";
-            this.批量删除ToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.Delete;
-            this.批量删除ToolStripMenuItem.Size = new System.Drawing.Size(194, 22);
-            this.批量删除ToolStripMenuItem.Text = "批量删除";
+            this.BatchDeleteToolStripMenuItem.Name = "BatchDeleteToolStripMenuItem";
+            this.BatchDeleteToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.Delete;
+            this.BatchDeleteToolStripMenuItem.Size = new System.Drawing.Size(194, 22);
+            this.BatchDeleteToolStripMenuItem.Text = "BatchDelete";
             // 
             // 事件归档ToolStripMenuItem
             // 
@@ -856,7 +856,7 @@
         private System.Windows.Forms.ToolStripMenuItem tsppaste;
         private System.Windows.Forms.ToolStripMenuItem tspcut;
         private System.Windows.Forms.ToolStripButton tspRegister;
-        private System.Windows.Forms.ToolStripMenuItem 批量删除ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem BatchDeleteToolStripMenuItem;
         private System.Windows.Forms.ToolStripButton toolStripButton1;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator5;
         private System.Windows.Forms.ToolStripMenuItem 事件归档ToolStripMenuItem;

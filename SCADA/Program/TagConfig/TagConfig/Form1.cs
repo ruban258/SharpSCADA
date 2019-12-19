@@ -1225,7 +1225,7 @@ namespace TagConfig
                         selectedTags.Clear();
                     }
                     break;
-                case "批量删除":
+                case "BatchDelete":
                     {
                         var rows = dataGridView1.SelectedRows;
                         if (rows != null)
